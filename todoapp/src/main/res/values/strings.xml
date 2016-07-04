@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TODO App</string>
+    <string name="btn_edit">modify</string>
+    <string name="btn_list">list</string>
+    <string name="btn_save">save</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="share">share</string>
+    <string name="delete">delete</string>
+    <string name="addItem">add</string>
+    <string name="settings">settings</string>
+    <string name="account">account setting</string>
+    <string name="setting">configuration</string>
+    <string name="exit">exit</string>
+    <string name="complete">complete</string>
+    <string name="important">important</string>
+    <string name="cancel_complete">cancel complete</string>
+    <string name="add_item_title">add todo</string>
+    <string name="add_item_msg">enter title</string>
+    <string name="btn_confirm">confirm</string>
+    <string name="choose_message">Select the app you want to share</string>
+    <string name="notitle">no title</string>
+</resources>
